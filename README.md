@@ -29,11 +29,3 @@ Follow these instructions to clone the project and run the solution on your loca
     ```bash
     dotnet run
     ```
-
-## Example Usage
-
-To use this program, modify the input string in the `Main` method and run the project.
-
-```csharp
-Console.WriteLine(MinOperations("0001"));
-Console.ReadLine();
